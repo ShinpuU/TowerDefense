@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TowerDefense", "TowerDefense\TowerDefense.vcxproj", "{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}.Debug|x64.ActiveCfg = Debug|x64
+		{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}.Debug|x64.Build.0 = Debug|x64
+		{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}.Debug|x86.Build.0 = Debug|Win32
+		{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}.Release|x64.ActiveCfg = Release|x64
+		{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}.Release|x64.Build.0 = Release|x64
+		{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}.Release|x86.ActiveCfg = Release|Win32
+		{B50CD43A-D4BB-4AF3-BDCE-BC81AB41C71B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D5D8B7-C755-4D44-A67C-C6FB0C2BB6F5}
+	EndGlobalSection
+EndGlobal
